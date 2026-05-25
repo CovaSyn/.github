@@ -1,4 +1,4 @@
-# CovaSyn — MCP tools for life sciences
+# CovaSyn - MCP tools for life sciences
 
 > **The ChemTech platform for AI agents.** CovaSyn is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that gives any AI agent real chemistry, pharma, and biotech capability: 199 deterministic tools across 17 suites, callable directly from chat.
 
